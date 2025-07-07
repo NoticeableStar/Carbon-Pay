@@ -75,5 +75,5 @@ dev.nix          # Nix development environment config
 Contributions are welcome! Please open issues or submit pull requests for improvements and bug fixes.
 
 
-*Empowering you to make greener choices, one step at
+*Empowering you to make greener choices, one step at a time
 
